@@ -29,4 +29,4 @@ jobs:
           context: .
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: ghcr.io/${{ github.repository }}:yhf3g079bt8kytv57vt097rec7bitA0001-of-one
+          tags: ghcr.io/${{ github.repository }}:khf3g079bt8kytv57vt097rec7bitA0001-of-one
